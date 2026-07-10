@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sonan\\Desktop\\CourseWorks\\BookStore_CW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C78538F7-3850-4CA8-BD2A-84E8E9F99741}|BookStore_CW\\BookStore_CW.csproj|c:\\users\\sonan\\desktop\\courseworks\\bookstore_cw\\bookstore_cw\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78538F7-3850-4CA8-BD2A-84E8E9F99741}|BookStore_CW\\BookStore_CW.csproj|solutionrelative:bookstore_cw\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78538F7-3850-4CA8-BD2A-84E8E9F99741}|BookStore_CW\\BookStore_CW.csproj|c:\\users\\sonan\\desktop\\courseworks\\bookstore_cw\\bookstore_cw\\genbookdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78538F7-3850-4CA8-BD2A-84E8E9F99741}|BookStore_CW\\BookStore_CW.csproj|solutionrelative:bookstore_cw\\genbookdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78538F7-3850-4CA8-BD2A-84E8E9F99741}|BookStore_CW\\BookStore_CW.csproj|c:\\users\\sonan\\desktop\\courseworks\\bookstore_cw\\bookstore_cw\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78538F7-3850-4CA8-BD2A-84E8E9F99741}|BookStore_CW\\BookStore_CW.csproj|solutionrelative:bookstore_cw\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78538F7-3850-4CA8-BD2A-84E8E9F99741}|BookStore_CW\\BookStore_CW.csproj|C:\\Users\\Sonan\\Desktop\\CourseWorks\\BookStore_CW\\bookstore_cw\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C78538F7-3850-4CA8-BD2A-84E8E9F99741}|BookStore_CW\\BookStore_CW.csproj|solutionrelative:bookstore_cw\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 32,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Handler.cs",
+              "DocumentMoniker": "C:\\Users\\Sonan\\Desktop\\CourseWorks\\BookStore_CW\\BookStore_CW\\Handler.cs",
+              "RelativeDocumentMoniker": "BookStore_CW\\Handler.cs",
+              "ToolTip": "C:\\Users\\Sonan\\Desktop\\CourseWorks\\BookStore_CW\\BookStore_CW\\Handler.cs",
+              "RelativeToolTip": "BookStore_CW\\Handler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T09:31:37.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenBookDB.cs",
+              "DocumentMoniker": "C:\\Users\\Sonan\\Desktop\\CourseWorks\\BookStore_CW\\BookStore_CW\\GenBookDB.cs",
+              "RelativeDocumentMoniker": "BookStore_CW\\GenBookDB.cs",
+              "ToolTip": "C:\\Users\\Sonan\\Desktop\\CourseWorks\\BookStore_CW\\BookStore_CW\\GenBookDB.cs",
+              "RelativeToolTip": "BookStore_CW\\GenBookDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T17:59:43.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Sonan\\Desktop\\CourseWorks\\BookStore_CW\\BookStore_CW\\Form1.cs",
+              "RelativeDocumentMoniker": "BookStore_CW\\Form1.cs",
+              "ToolTip": "C:\\Users\\Sonan\\Desktop\\CourseWorks\\BookStore_CW\\BookStore_CW\\Form1.cs",
+              "RelativeToolTip": "BookStore_CW\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T17:08:22.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Sonan\\Desktop\\CourseWorks\\BookStore_CW\\BookStore_CW\\Form1.cs",
+              "RelativeDocumentMoniker": "BookStore_CW\\Form1.cs",
+              "ToolTip": "C:\\Users\\Sonan\\source\\repos\\SQLLite\\BookStore_CW\\BookStore_CW\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\SQLLite\\BookStore_CW\\BookStore_CW\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T17:07:33.095Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
